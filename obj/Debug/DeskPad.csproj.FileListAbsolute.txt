@@ -1,0 +1,10 @@
+H:\projetsCode\Projet VSC 2019\DeskPad\bin\Debug\DeskPad.exe.config
+H:\projetsCode\Projet VSC 2019\DeskPad\bin\Debug\DeskPad.exe
+H:\projetsCode\Projet VSC 2019\DeskPad\bin\Debug\DeskPad.pdb
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.MainForm.resources
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.Properties.Resources.resources
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.csproj.GenerateResource.cache
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.csproj.CoreCompileInputs.cache
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.exe
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.pdb
+H:\projetsCode\Projet VSC 2019\DeskPad\obj\Debug\DeskPad.csproj.AssemblyReference.cache
